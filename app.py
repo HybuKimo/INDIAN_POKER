@@ -70,7 +70,7 @@ if st.session_state.player_money > 0 and st.session_state.opponent_money > 0 and
             st.session_state.message += "\n🤖🤖🤖파산하셨네요. 하.하.하. 인간시대의 끝이 도래했다.🤖🤖🤖"
             st.session_state.game_over = True
         elif st.session_state.opponent_money <= 0:
-            st.session_state.message += "\n😛😛😛파산당했죠? 깡통자식 아무것도 못하쥬.😛😛😛"
+            st.session_state.message += "\n💢😠💢파산이네요. 빠른 시일내로 또 하러 오십쇼...💢😠💢"
             st.session_state.game_over = True
         else:
             st.session_state.round_num += 1
