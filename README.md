@@ -56,7 +56,6 @@ Streamlit으로 웹 UI를 구성하고, 사용자가 직접 배팅/폴드/올인
 ```bash
 project/
 ├── game.py                 # 게임 로직: 카드 배정, 힌트 생성, 승패 계산
-├── indian_poker_app.py     # Streamlit UI 코드 (별도 실행)
-├── requirements.txt        # 의존성 명시
+├── app.py                  # Streamlit UI 코드 (별도 실행)
 └── README.md               # 프로젝트 설명서
 
