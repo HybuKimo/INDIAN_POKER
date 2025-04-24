@@ -29,10 +29,10 @@ Streamlit으로 웹 UI를 구성하고, 사용자가 직접 배팅/폴드/올인
 
 | 기술명 | 역할 및 설명 | 뱃지 |
 |--------|----------------|------|
-| **Python** | 전체 애플리케이션 개발, 게임 로직 구현 | ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python) |
-| **Streamlit** | 웹 UI, 상태 관리, 인터랙티브 게임 구현 | ![Streamlit](https://img.shields.io/badge/Streamlit-Interactive-red?logo=streamlit) |
-| **Ollama (LLM)** | 힌트 생성에 사용되는 LLM 실행 환경 | ![Ollama](https://img.shields.io/badge/Ollama-Model%20Runtime-black?logo=openai) |
-| **EEVE-Korean-10.8B** | 내 카드 기반 블러핑 힌트를 생성하는 LLM | ![EEVE](https://img.shields.io/badge/EEVE-Korean--10.8B-yellow?style=flat-square) |
+| **Python** | 전체 애플리케이션 개발, 게임 로직 구현 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| **Streamlit** | 웹 UI 및 상태 관리, 인터랙티브 게임 구현 | ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) |
+| **Ollama** | LLM 호출 및 실행(로컬) | <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=OpenAI&logoColor=white"/> |
+| **EEVE-Korean-10.8B** | 한국어 특화 LLM, 힌트 생성 및 상대 역할 수행,  | ![EEVE](https://img.shields.io/badge/EEVE-Korean--10.8B-yellow?style=flat-square) |
 
 ---
 
