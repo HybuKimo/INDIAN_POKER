@@ -1,6 +1,12 @@
 # ♠️♥️인디언 포커♦️♣️
 ---
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f36e9fa4-b970-4159-b7f6-6aae7c048a0b" width="500"/>
+  <img src="https://github.com/user-attachments/assets/b74e0185-f303-45f7-9e15-56c00e40596e" width="500"/>
+</p>
+
+
 ## 📆 프로젝트 기간
 
 - 2025년 4월 18일 ~ 4월 24일
